@@ -5,5 +5,5 @@ do
         echo "=============================================================="
         echo "[TCP Benchmarking started. Iteration $i/$number_iterations ongoing]"
         echo "=============================================================="
-        ./benchmark-iperf-simultaneous-connections-tcp
+        ./benchmark-iperf-simultaneous-connections-tcp.sh
 done
